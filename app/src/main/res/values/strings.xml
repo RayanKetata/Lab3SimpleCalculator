@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab3SimpleCalculator</string>
+    <string name="BAD_BUTTON7" />
+    <string name="BADBUTTON8" />
+    <string name="BADBUTTON9" />
+    <string name="button_07">7</string>
+    <string name="button_08">8</string>
+    <string name="button_09">9</string>
+    <string name="button_Add">+</string>
+    <string name="button_04">4</string>
+    <string name="button_05">5</string>
+    <string name="button_06">6</string>
+    <string name="buttonDIV">/</string>
+    <string name="buttonMULT">*</string>
+    <string name="button_0">0</string>
+    <string name="button_DOT">.</string>
+    <string name="button_SUB">-</string>
+    <string name="button_EQUAL">=</string>
+</resources>
